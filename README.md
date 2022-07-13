@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hartesa
 - 👀 I’m interested in astrology
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning about data analytics and software development
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
