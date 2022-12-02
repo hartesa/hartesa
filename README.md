@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Tesa
 - 👀 I’m interested in knowing myself and realizing my potential
-- 🌱 I’m currently learning about fullstack development, game development and data analytics.
+- 🌱 I’m currently learning about fullstack development.
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Reach me via email at tesa.hartesa@gmail.com
 
