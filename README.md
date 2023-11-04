@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing myself and realizing my potential
 - 🌱 I’m currently learning about fullstack development.
 - 💞️ I’m looking to collaborate on nothing
-- 📫 Reach me via email at tesa.hartesa@gmail.com
+- 📫 Reach me via email at hartesa.hartesa@gmail.com
 
 <!---
 hartesa/hartesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
